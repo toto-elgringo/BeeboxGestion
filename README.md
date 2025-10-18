@@ -1,4 +1,3 @@
-
 # BeeBox — Dashboard de gestion de boxes de stockage
 
 ## Contexte de réalisation:
@@ -9,14 +8,14 @@
 ---
 
 ## Aperçu
-BeeBox permet de **gérer la location de boxes** par un ou plusiers **agence** avec :
+BeeBox permet de **gérer la location de boxes** par une ou plusieurs **agence** avec :
 - Attribution d’un box à un locataire
 - Gestion des locataires, agences, affectations, paiements, notes et calendrier d’occupation.
 - KPI d’exploitation : taux d’occupation, rotations mensuelles, retards de loyer, etc.
 
 ---
 
-## ✅ Fonctionnalités
+## Fonctionnalités
 
 | Domaine | Points clés |
 | **Agences** | Création/édition d’agences, visibilité cloisonnée des données par agence (ownership). |
@@ -30,13 +29,13 @@ BeeBox permet de **gérer la location de boxes** par un ou plusiers **agence** a
 
 ---
 
-## 🔐 Sécurité & Rôles
+## Sécurité & Rôles
 - **Admin global** : voit et gère **toutes** les agences & données.
 - **Agent d’agence** : accès **restreint** à son agence uniquement.
 
 ---
 
-## 🖼️ Front‑office & Back‑office
+## Front‑office & Back‑office
 
 - **Login** → redirection en fonction du rôle.
 - **Admin** : dashboard complet, gestion agences/utilisateurs, KPI globaux.  
@@ -44,7 +43,7 @@ BeeBox permet de **gérer la location de boxes** par un ou plusiers **agence** a
 
 ---
 
-## 📄 Licence & Auteur
+## Licence & Auteur
 - **Licence** : projet privé, usage interne uniquement.  
-- **Auteur/Produit** : BeeBox — ANDRE Antoine.  
+- **Produit/Auteur** : BeeBox — ANDRE Antoine.  
 - **Site web** : https://www.beeboxlaon.fr/
